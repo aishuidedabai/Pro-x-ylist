@@ -5011,3 +5011,4 @@ DOMAIN-SUFFIX,searchwsafeweb,Proxy
 DOMAIN-MATCH,blogspot,Proxy
 DOMAIN-SUFFIX,taaae.com,Proxy
 DOMAIN-SUFFIX,gramplus.io,Proxy
+DOMAIN-SUFFIX,baidu.com,REJECT
